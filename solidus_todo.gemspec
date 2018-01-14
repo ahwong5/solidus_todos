@@ -1,6 +1,6 @@
 # encoding: UTF-8
 $:.push File.expand_path('../lib', __FILE__)
-require 'solidus_todo/version'
+
 
 Gem::Specification.new do |s|
   s.name        = 'solidus_todo'

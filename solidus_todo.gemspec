@@ -5,8 +5,8 @@ require 'solidus_todo/version'
 Gem::Specification.new do |s|
   s.name        = 'solidus_todo'
   s.version     = SolidusTodo::VERSION
-  s.summary     = 'TODO ability in admin for staffs'
-  s.description = 'TODO ability in admin for staffs'
+  s.summary     = 'ability in admin for staffs'
+  s.description = 'ability in admin for staffs, this is just for internal use'
   s.license     = 'BSD-3-Clause'
 
   s.author    = 'ahwong5'

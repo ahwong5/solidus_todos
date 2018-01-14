@@ -4,7 +4,7 @@ $:.push File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = 'solidus_todo'
-  s.version     = SolidusTodo::VERSION
+  # s.version     = SolidusTodo::VERSION
   s.summary     = 'ability in admin for staffs'
   s.description = 'ability in admin for staffs, this is just for internal use'
   s.license     = 'BSD-3-Clause'

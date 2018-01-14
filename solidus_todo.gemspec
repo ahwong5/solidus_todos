@@ -3,7 +3,7 @@ $:.push File.expand_path('../lib', __FILE__)
 require 'solidus_todo/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'solidus-todo'
+  s.name        = 'solidus_todos'
   s.version     = SolidusTodo::VERSION
   s.summary     = 'ability in admin for staffs'
   s.description = 'ability in admin for staffs'

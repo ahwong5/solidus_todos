@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = 'solidus_todo'
   s.version     = SolidusTodo::VERSION
   s.summary     = 'TODO'
-  s.description = 'TODO'
+  s.description = 'TODO ability in admin for staffs'
   s.license     = 'BSD-3-Clause'
 
   s.author    = 'ahwong5'
